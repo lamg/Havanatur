@@ -12,10 +12,10 @@ namespace Havanatur
 			PlanAlimentario = planAlimentario;
 		}
 
-		public string Nombre { get; }
-		public string Fecha { get; }
-		public string TipoHab { get; }
-		public string[][] PlanAlimentario { get; }
+		public string Nombre { get; private set;}
+		public string Fecha { get; private set;}
+		public string TipoHab { get; private set;}
+		public string[][] PlanAlimentario { get; private set;}
 
 	}
 }

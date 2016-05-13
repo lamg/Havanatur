@@ -10,8 +10,8 @@ namespace Havanatur
 			Valor = Valor;
 		}
 
-		public string Nombre { get; }
-		public string Valor { get; }
+		public string Nombre { get; private set;}
+		public string Valor { get; private set;}
 	}
 }
 
