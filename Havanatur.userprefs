@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Havanatur/Parser.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Havanatur/Parser.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Havanatur/Parser.cs" Line="11" Column="3" />
+      <File FileName="Havanatur/Hotel.cs" Line="13" Column="4" />
+      <File FileName="Havanatur/Parser.cs" Line="68" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

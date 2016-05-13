@@ -12,10 +12,10 @@ namespace Havanatur
 			Combinaciones = cs;
 		}
 
-		public string Nombre{ get; }
-		public Temporada[] Temporadas{ get; }
-		public Suplemento[] Suplementos{ get; }
-		public Combinacion[] Combinaciones { get; }
+		public string Nombre{ get; private set;}
+		public Temporada[] Temporadas{ get; private set;}
+		public Suplemento[] Suplementos{ get; private set;}
+		public Combinacion[] Combinaciones { get; private set;}
 	}
 }
 
